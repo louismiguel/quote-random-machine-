@@ -1,0 +1,21 @@
+body{
+    background-color:orange;
+  }
+  
+  h1{color:white;}
+  
+  .quotes{
+    border: 2px solid white;
+  }
+  
+  
+  #quote {
+    text-align:center;
+    color:black;
+    font-size:40px;
+  }
+  
+  #author{
+    font-size:22px;
+    color:black;
+  }
